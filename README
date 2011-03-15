@@ -13,7 +13,7 @@ node-csssprite
 
 2. Installing
 ----------------------------------------
-  * copy  to ~/.node_modules
+  * copy src/csssprite.js to ~/.node_modules
 
 
 3. Using
