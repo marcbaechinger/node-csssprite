@@ -1,0 +1,26 @@
+node-csssprite
+========================================
+
+0. Uninstalling
+----------------------------------------
+  * Thanks to Rasmus Andersson for node-imagemagick
+
+
+1. Dependencies
+----------------------------------------
+  * requires node-imagemagick (see https://github.com/rsms/node-imagemagick)
+
+
+2. Installing
+----------------------------------------
+  * copy  to ~/.node_modules
+
+
+3. Using
+----------------------------------------
+see test/create-sprite.js
+
+
+4. Uninstalling
+----------------------------------------
+  * rm ~/.node_modules/csssprite.js
